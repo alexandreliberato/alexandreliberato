@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexandre</h1>
-<h3 align="center">Back-end developer with strong interest and experience in Clean Architecture, Clean Code, DDD, API Design, and TDD
-Senior software engineer with over 8 years of experience working with cloud solutions, specially
-scalable microservices. Committed to create value through innovative solutions, team
-collaboration, and mentoring. Comfortable working remotely with international teams using
-asynchronous communication.
-</h3>
+<h3 align="center">Back-end developer with strong interest and experience in Clean Architecture, Clean Code, DDD, API Design, and TDD</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexandreliberato&label=Profile%20views&color=0e75b6&style=flat" alt="alexandreliberato" /> </p>
 
